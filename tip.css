@@ -1,0 +1,55 @@
+body{
+    background-image:linear-gradient(rgb(164, 207, 248),rgb(173, 44, 224)) ;
+background-repeat: no-repeat;
+height: 700px;
+}
+
+
+#header{
+    height: 40px;
+    width: 350px;
+    background-color: rgb(68, 67, 67);
+    color: white;
+    text-align: center;
+    font-size: larger;
+    padding-top: 7px;
+    margin-left: 450px;
+margin-top: 100px;
+}
+.form1{
+    height: 440px;
+    width: 350px;
+    background-color: rgb(144, 224, 180);
+    font-size: larger;   
+    margin-left: 450px;
+    margin-top: -20px;
+}
+#billamt{
+    height: 30px;
+    width: 230px;
+}
+#serviceQual{
+height: 60px;
+width: 300px;
+margin-left: 25px; 
+}
+#peopleamt{
+    height: 25px;
+    width: 220px;
+    margin-left: 20px;
+
+}
+#calculate{
+height: 40px;
+width: 200px;
+margin-top: 30px;
+margin-left: 55px;
+background-color: rgb(128, 58, 58);
+color: white;
+display: inline;
+}
+#container{
+    justify-content: center;
+    display: inline-block;
+    margin-left: 40%;
+}
